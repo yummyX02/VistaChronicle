@@ -1,2 +1,59 @@
 # VistaChronicle
-VistaChronicle is an open-source online platform for marking and sharing landmarks on maps. Users can easily add, edit, and remove landmarks on the map, along with detailed descriptions and explanations for each. 
+![Language](https://img.shields.io/badge/language-vue-brightgreen)
+
+---
+
+# 在线地图标记应用
+
+该项目创意来自于每次出行旅游做攻略时都要一边查资料一遍手写进行记录，因此如果有一个可以在线实现旅游规划的项目将会大大提高效率...
+旨在为用户提供一个在线地图标记工具，使用户可以在地图上标记不同的地点，并对这些地点进行分类、标记用途、添加备注等操作。
+未来可能支持导出同一分类下的地点标记，以便用户制作路线或进行其他操作。
+
+## 主要功能
+
+- 在地图上标记地点：用户可以通过点击地图来标记不同的地点，可以在地图上添加标记点，并对标记点进行编辑和删除操作。
+- 地点分类：用户可以为每个标记点指定一个分类，便于管理和组织标记点。
+- 地点标记用途：用户可以为每个标记点指定一个用途，比如餐饮、景点、商店等，以便在地图上快速识别。
+- 备注：用户可以为每个标记点添加备注信息，以便记录相关信息。
+
+
+
+## 如何使用
+
+1. Clone 该仓库到本地：
+
+```
+git clone https://github.com/yummyX02/VistaChronicle.git
+```
+
+2. 安装依赖：
+
+```
+cd your-project-directory
+npm install
+```
+
+3. 运行应用：
+
+```
+npm start
+```
+
+
+## 常见问题
+
+1. 如何添加新的地点标记？
+   在地图上点击您想要标记的地点，然后填写相应的信息即可添加新的地点标记。
+
+2. 如何编辑已有的地点标记？
+   在地图上点击已有的标记点，然后点击编辑按钮进行编辑，修改完毕后保存即可。
+
+3. 如何导出同一分类下的地点标记？
+   （待实现）
+
+## 贡献
+
+如果您有任何建议或发现了 bug，欢迎提交 issue 或者 PR。您的反馈和贡献将会使该应用变得更加完善！
+
+---
+😄
